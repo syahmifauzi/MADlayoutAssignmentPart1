@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'screens/tab.dart';
-
 import './models/device.dart';
+import './screens/tab.dart';
 
 void main() => runApp(App());
 
